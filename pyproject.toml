@@ -1,0 +1,6 @@
+[project]
+name = "sortie-pre-commit"
+version = "0.0.0"
+dependencies = [
+    "sortie==0.1.0",
+]
