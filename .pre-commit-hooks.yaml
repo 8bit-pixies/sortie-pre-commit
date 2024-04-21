@@ -1,0 +1,6 @@
+- id: sortie
+  name: sortie
+  description: "Run 'sortie' for pyproject.toml formatting"
+  entry: sortie
+  language: python
+  types: [file, yaml]
