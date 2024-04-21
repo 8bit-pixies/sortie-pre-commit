@@ -4,5 +4,5 @@
   entry: sortie
   language: python
   files: ^pyproject
-  types: [yaml]
+  types: [toml]
   pass_filenames: false
