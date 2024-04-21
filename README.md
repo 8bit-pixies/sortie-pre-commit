@@ -8,7 +8,7 @@ Sortie is an opinionated tool for formatting your `pyproject.toml` files.
 
 Distributed as a standalone repository to enable installing Sortie via prebuilt wheels from PyPI.
 
-# Using Sortie standalone
+# Using Sortie
 
 Sortie is available as [sortie](https://pypi.org/project/sortie/) on PyPI:
 
