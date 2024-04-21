@@ -3,4 +3,5 @@
   description: "Run 'sortie' for pyproject.toml formatting"
   entry: sortie
   language: python
-  types: [file, yaml]
+  types: [yaml]
+  pass_filenames: false
